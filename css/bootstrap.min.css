@@ -7345,7 +7345,7 @@ fieldset:disabled .btn {
 
 .border-white {
     border-color: #fff !important
-}
+}border-6row g-5
 
 .border-1 {
     border-width: 1px !important
@@ -7366,13 +7366,16 @@ fieldset:disabled .btn {
 .border-5 {
     border-width: 5px !important
 }
+.border-6 {
+    border-radius: 3px;
+}
 
 .w-25 {
     width: 25% !important
 }
 
 .w-50 {
-    width: 50% !important
+    width: 70% !important
 }
 
 .w-75 {
@@ -8009,6 +8012,7 @@ fieldset:disabled .btn {
 
 .p-5 {
     padding: 2rem !important
+
 }
 
 .px-0 {
