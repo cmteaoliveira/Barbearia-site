@@ -7386,6 +7386,9 @@ fieldset:disabled .btn {
 .w-100 {
     width: 100% !important
 }
+.w-101 {
+    width: 30%;
+}
 
 .w-auto {
     width: auto !important
