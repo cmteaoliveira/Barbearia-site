@@ -702,7 +702,8 @@ progress {
     flex-wrap: wrap;
     margin-top: calc(var(--bs-gutter-y) * -1);
     margin-right: calc(var(--bs-gutter-x) / -2);
-    margin-left: calc(var(--bs-gutter-x) / -2)
+    margin-left: calc(var(--bs-gutter-x) / -2);
+    justify-content: space-evenly;
 }
 
 .row>* {
@@ -12547,7 +12548,7 @@ fieldset:disabled .btn {
 
 @media (max-width: 575.98px) {
     .edit-1 { 
-    font-size: 1,5rem !important
+    font-size: 1,2rem !important
 
 }
 }
